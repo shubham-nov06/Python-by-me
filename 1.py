@@ -13,3 +13,11 @@ print("Enter your name  ")
 
 name1 = str(input())
 print("Your name is " , name1)
+
+
+print("Enter age " )
+age = int(input())
+
+if(age > 18 ) : {
+    print("You are not adult")
+}

@@ -1,6 +1,6 @@
 num1 = input("enter the 1st number = ")
 
-symbol = (input("Enter what you want to do = "))
+symbol = input("Enter what you want to do = "))
 
 num2 = input("Enter the 2nd number = ")
 

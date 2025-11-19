@@ -7,3 +7,4 @@ num2 = int(input("Enter the 2nd number"))
 if(symbol == '+'): {
     print(num1+num2)
 }
+

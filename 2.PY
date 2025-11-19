@@ -5,6 +5,9 @@ symbol = str(input("Enter what you want to do = "))
 num2 = input("Enter the 2nd number = ")
 
 invalid_char = ['#' , '$' , "^" , '&' , ' ()']
+if num1  in invalid_char or num2 in invalid_char :
+
+print("invalid input")
 
 
 

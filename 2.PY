@@ -4,8 +4,10 @@ symbol = str(input("Enter what you want to do = "))
 
 num2 = input("Enter the 2nd number = ")
 
-if num1 == '#''$' '^' '&':
-    print("Invalid input ")
+invalid_char = ['#' , '$' , "^" , '&' , ' ()']
+
+
+
 if symbol == '+': 
     print(num1 + num2)
 elif symbol == '-':

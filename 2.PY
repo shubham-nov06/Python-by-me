@@ -1,8 +1,8 @@
-num1 = (input("enter the 1st number = "))
+num1 = input("enter the 1st number = ")
 
 symbol = str(input("Enter what you want to do = "))
 
-num2 = (input("Enter the 2nd number = "))
+num2 = input("Enter the 2nd number = ")
 
 if num1 == '#''$' '^' '&':
     print("Invalid input ")

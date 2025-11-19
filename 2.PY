@@ -4,6 +4,9 @@ symbol = str(input("Enter what you want to do = "))
 
 num2 = int(input("Enter the 2nd number = "))
 
+
+if num1=='# , $ ^&()':
+    print("Invalid input ")
 if symbol == '+': 
     print(num1 + num2)
 elif symbol == '-':

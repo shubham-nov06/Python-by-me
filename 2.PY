@@ -10,4 +10,6 @@ elif symbol == '-':
     print(num1 - num2)
 elif symbol == '*':
     print(num1 * num2)
+else : 
+    print("Invalid input")    
 

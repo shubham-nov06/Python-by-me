@@ -3,5 +3,5 @@ print("Your name is = " , name )
 print("What do you want to do eg- isalpha , isalnum , lower , upper , title , isupper ")
 
 operation = input("Enter it = ")
-if operation == 'isalpha' : 
-    print(name.isalpha)
+if operation == 'lower' : 
+    print(name.lower())

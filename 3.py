@@ -10,4 +10,4 @@ elif operation =='upper' :
     print(name.upper())
     
 elif operation == 'title' :
-    print(name.titlee())
+    print(name.title())

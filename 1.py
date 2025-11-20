@@ -1,8 +1,8 @@
 name = "My name is Shubham "
 print(name)
-print(name + "Dogra")
+print(f"{name}Dogra")
 
-age = 18 
+age = 18
 print(age)
 
 print("Enter your age ")
@@ -21,16 +21,24 @@ if(age > 18): {
     print("You are not adult")
 }
 
-else : {
-    
+else: {
+
     print("You are not an adult ")
-    
+
 }
 yo = "Im github"
 
 Autopush = " This time i had done something new  "
 print(Autopush) 
 
+print("Yo")
+
+print("Yooooo")
+
+yo = "Im github"
+
+Autopush = " This time i had done something new  "
+print(Autopush) 
 
 print("Yo")
 

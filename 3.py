@@ -11,3 +11,5 @@ elif operation =='upper' :
     
 elif operation == 'title' :
     print(name.title())
+    
+elif

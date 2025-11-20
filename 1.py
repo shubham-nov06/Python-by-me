@@ -35,10 +35,3 @@ print(Autopush)
 print("Yo")
 
 print("Yooooo")
-
-
-
-
-
-
-

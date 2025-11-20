@@ -1,4 +1,4 @@
-# A simple and small project of taking  input form the user 
+# A simple and small project of taking  input form the user to do some operations 
 num1 = input("enter the 1st number = ")
 
 symbol = input("Enter what you want to do = ")

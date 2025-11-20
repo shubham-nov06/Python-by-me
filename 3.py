@@ -17,3 +17,4 @@ elif operation == 'isupper':
     
 elif operation == 'islower' :
     print(name.islower())
+    

@@ -1,4 +1,4 @@
-# A simple and small project 
+# A simple and small project of taking 
 num1 = input("enter the 1st number = ")
 
 symbol = input("Enter what you want to do = ")

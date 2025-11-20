@@ -9,3 +9,5 @@ if operation == 'lower':
 elif operation =='upper' :
     print(name.upper())
     
+elif operation == 'title' :
+    print(name.titile)

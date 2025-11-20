@@ -7,15 +7,15 @@ operation = input("Enter it = ")
 if operation == 'lower': 
     print(name.lower())
     
-elif operation =='upper' :
+elif operation == 'upper':
     print(name.upper())
     
-elif operation == 'title' :
+elif operation == 'title':
     print(name.title())
     
 elif operation == 'isupper':
     print(name.isupper())
     
-elif operation == 'islower' :
+elif operation == 'islower':
     print(name.islower())
     

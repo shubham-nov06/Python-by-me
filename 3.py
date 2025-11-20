@@ -6,3 +6,6 @@ operation = input("Enter it = ")
 if operation == 'lower': 
     print(name.lower())
     
+elif operation =='upper' :
+    print(name.upper())
+    

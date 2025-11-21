@@ -14,6 +14,7 @@ while guess != number:
     elif guess > number:
         
         print("Guess smaller number = ")
+
         
     elif guess == number:
         print("Good you guessed the right number ")

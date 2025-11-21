@@ -1,4 +1,5 @@
-# Just a simple guess 
+# Just a simple guess  the number project 
+
 import random 
 
 number = random.randint(1, 100)

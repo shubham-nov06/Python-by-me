@@ -10,6 +10,7 @@ while guess != number:
     if guess < number: 
         
         print("Guess larger number = ")
+        
     elif guess > number:
         print("Guess smaller number = ")
         

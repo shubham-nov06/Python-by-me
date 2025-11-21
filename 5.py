@@ -9,5 +9,5 @@ if ch== 1 :
     print("Fahrenheit = " , (c *9/5) + 32)
     
 elif ch==2:
-    f = input("Fahrenheit")
+    f = int(input("Fahrenheit"))
     print("Fahrenheit = " , (f - 32) * 5/7)

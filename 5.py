@@ -10,4 +10,4 @@ if ch== 1 :
     
 elif ch==2:
     f = float(input("Fahrenheit"))
-    print("Celcius = " , (f - 32) * 5/7)
+    print("Celcius = " , (f - 32) * 5/9)

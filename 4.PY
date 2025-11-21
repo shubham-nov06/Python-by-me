@@ -8,6 +8,7 @@ while guess != number:
     guess = int(input("Guess a number between 1-100 = "))
     
     if guess < number: 
+        
         print("Guess larger number = ")
     elif guess > number:
         print("Guess smaller number = ")

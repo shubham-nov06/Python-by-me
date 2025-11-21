@@ -1,3 +1,4 @@
+# Just a simple guess 
 import random 
 
 number = random.randint(1, 100)

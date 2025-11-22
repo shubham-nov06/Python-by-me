@@ -17,6 +17,7 @@ elif operation == 'upper':
     print(name.upper())
     
 elif operation == 'title':
+    
     print(name.title())
     
 elif operation == 'isupper':

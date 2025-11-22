@@ -6,3 +6,5 @@ length = int(input("Enter password length"))
 
 char = string.ascii_letters + string.digits + string.punctuation
 password = "".join(random.choice(char) for i in range (length))
+
+print("Generated password = " password)

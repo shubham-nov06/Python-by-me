@@ -21,6 +21,7 @@ elif operation == 'title':
     print(name.title())
     
 elif operation == 'isupper':
+    
     print(name.isupper())
     
 elif operation == 'islower':

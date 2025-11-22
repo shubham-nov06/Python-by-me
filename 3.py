@@ -9,6 +9,7 @@ print("What do you want to do eg- isalpha , isalnum , lower , upper , title , is
 operation = input("Enter it = ")
 
 if operation == 'lower': 
+    
     print(name.lower())
     
 elif operation == 'upper':

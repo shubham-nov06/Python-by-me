@@ -4,7 +4,7 @@ import string
 
 length = int(input("Enter password length"))
 
-char = string.ascii_letters + string.digits + string.punctuation
+char =  string.digits + string.char
 password = "".join(random.choice(char) for i in range (length))
 
 print("Generated password = " , password)

@@ -2,4 +2,4 @@
 import random 
 import string 
 
-length
+length = int(input())

@@ -2,4 +2,5 @@
 import random 
 import string 
 
-length = int(input())
+length = int(input("Enter password length"))
+

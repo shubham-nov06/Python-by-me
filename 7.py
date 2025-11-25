@@ -4,7 +4,7 @@ print(complexnum)
 
 print(type(complexnum))
 
-NAME = "SHUBHAM"
-NAME = "YO"
+NAME = 1000
+NAME = 1000
 
 print(NAME)

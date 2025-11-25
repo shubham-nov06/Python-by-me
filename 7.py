@@ -5,6 +5,7 @@ print(complexnum)
 print(type(complexnum))
 
 NAME = 1000
+
 NAME = 1001
 
 print(NAME)

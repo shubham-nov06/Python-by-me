@@ -1,4 +1,4 @@
-complexnum = complex(2,3)
+complexnum = complex(2, 3)
 
 print(complexnum)
 type(complexnum)

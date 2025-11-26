@@ -1,5 +1,5 @@
 
-from Demo
+from Dem
 complexnum = complex(2, 3)
 
 print(complexnum)

@@ -1,11 +1,11 @@
+from Demos.security.security_enums import Enum
 complexnum = complex(2, 3)
 
 print(complexnum)
 
 print(type(complexnum))
 
-NAME = 1000
+PI = 12345
 
-NAME = 1001
 
-print(NAME)
+print(PI )

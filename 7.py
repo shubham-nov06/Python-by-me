@@ -9,3 +9,7 @@ print(type(complexnum))
 PI = 12345
 
 print(PI ) 
+ 
+condition == 'true' 
+if conditon == true 
+print("condition")

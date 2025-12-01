@@ -10,6 +10,7 @@ PI = 12345
 
 print(PI ) 
  
-condition == 'true' 
-if conditon == true 
-print("condition")
+condition == True
+if conditon == True
+print("The condition")
+

@@ -13,4 +13,5 @@ print(PI )
 condition == True
 if conditon == True
 print("The condition")
+print("Was true ")
 

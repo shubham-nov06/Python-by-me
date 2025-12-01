@@ -9,8 +9,8 @@ print(type(complexnum))
 PI = 12345
 
 print(PI ) 
- 
-condition == True
+
+condition = True
 if conditon == True
 print("The condition")
 print("Was true ")

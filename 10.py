@@ -8,7 +8,7 @@ elif time > 12 and time <=16:
 elif time > 17 and time <= 20:
     print("Good evening ")
     
-elif time > 21 and time <= 4:
+elif time > 21 and time < 24:
     print("Night ")      
 else : 
     print("Invalid input")

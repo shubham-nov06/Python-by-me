@@ -11,7 +11,6 @@ PI = 12345
 print(PI ) 
 
 condition = True
-
 if condition == True:
     
  print("The condition")

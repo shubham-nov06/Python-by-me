@@ -6,4 +6,4 @@ if side1 == side2 and side2 == side3:
     ("This is a Eqilateral Triangle ")
 elif side1 == side2 or side2 == side3 or side1 == side3:
     print("This is a Isocles Traiangle")
-else : print("This is scalene Triangle ")
+else: print("This is scalene Triangle ")

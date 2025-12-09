@@ -1,5 +1,5 @@
 time = float(input("Enter time in hours "))
-if time > 0 and time <5 :
+if time > 0 and time < 5:
     print("Also Night")
 
 elif time >= 5 and time <= 11:

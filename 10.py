@@ -1,6 +1,6 @@
 time = float(input("Enter time in hours "))
 
-if time = 5 and time<=11:
+if time >= 5 and time<=11:
     print("Morning")
 elif time > 12 and time <=16:
     print("Good afternoon ")

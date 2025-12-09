@@ -10,3 +10,5 @@ elif time > 17 and time <= 20:
     
 elif time > 21 and time == 4 :
     print("Night ")      
+else : 
+    print("Invalid input")

@@ -13,6 +13,6 @@ print(PI)
 condition = True
 if condition == True:
     
- print("The condition")
- print("Was true ")
+    print("The condition")
+    print("Was true ")
 
